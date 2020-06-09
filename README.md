@@ -1,3 +1,3 @@
 # gameMataMosquito
 
-Acesse:  https://marcosnfrei.github.io/gameMataMosquito/
+Acesse:  https://marcosfreiberger.github.io/gameMataMosquito/
